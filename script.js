@@ -1,5 +1,3 @@
-alert("hello");
-
 window.addEventListener('DOMContentLoaded', (e) =>{
 	// hide/show navigation on scroll
 	let lastScrollpos = window.pageYOffset;
