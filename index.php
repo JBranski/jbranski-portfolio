@@ -80,6 +80,8 @@
 			<h1>Jonathan Branski</h1>
 			<h2>Front-end Developer</h2>
 		</article>
+
+		<!-- background graphics for header -->
 		<div class="header-bg-circle">
 			<span></span>
 			<span></span>
@@ -98,6 +100,7 @@
 				</section>
 				
 				<section>
+				<!-- Listings of skills used. possibly look for alternate way to display -->
 					<section class="technologies">
 						<h3>Front-end Technologies</h3>
 						<img src="./img/tech-logos/html5_badge_64.png" alt="HTML5">
@@ -132,10 +135,12 @@
 		</article>
 
 		<article id="projects">
+		<!-- Combination of work, school, and side projects -->
 			<h2>Projects & Work</h2>
 			<hr>
 			<section class="project-list">
 				<section class="project-tile">
+					<!-- volunteer project -->
 					<a href="https://svw.vn" target="_blank">
 						<img src="./img/project-svw.jpg" alt="">
 						<h3>Save Vietnam's Wildlife</h3>
@@ -147,6 +152,7 @@
 					</a>
 				</section>
 				<section class="project-tile">
+					<!-- school project -->
 					<a href="https://crosslutheranmke.org" target="_blank">
 						<img src="./img/project-crosslutheran.jpg" alt="">
 						<h3>Cross Lutheran MKE</h3>
@@ -159,6 +165,7 @@
 					</a>
 				</section>
 				<section class="project-tile">
+					<!-- online class project -->
 					<a href="https://github.com/JBranski-ZTM-Projects/Background-Generator" target="_blank">
 						<img src="./img/project-ztm-background-gen.jpg" alt="">
 						<h3>ZTM Background Gen</h3>
@@ -172,6 +179,7 @@
 					</a>
 				</section>
 				<section class="project-tile">
+					<!-- site from employer -->
 					<a href="https://sjnma.org" target="_blank">
 						<img src="./img/project-sjnma.jpg" alt="">
 						<h3>St. John's Northwestern</h3>
@@ -235,6 +243,7 @@
 				</section>
 			</section>
 
+			<!-- background for contact section, mimics header -->
 			<div class="contact-bg-circle">
 				<span></span>
 				<span></span>
