@@ -1,8 +1,10 @@
+// import all partial scss files
 @import "_variables";
 @import "_navigation";
 @import "_projects";
 @import "_form";
 
+// minimal reset css
 *,
 html{
 	margin: 0;
@@ -265,8 +267,4 @@ footer{
 			max-width: 65%;
 		}
 	} 
-}
-
-@media screen and (min-width: 1080px){
-
 }

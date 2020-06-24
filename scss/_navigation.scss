@@ -34,7 +34,7 @@
 			}
 
 			&:focus, &:hover, &:active{
-				transform: scale(1.1) rotate(-2deg);
+				transform: scale(1.1);
 				color: #20232d
 			}
 		}
@@ -45,6 +45,7 @@
 		width: 200px;
 	}
 
+	// code for the appearance of the hamburger menu
 	.menu-icon{
 		cursor: pointer;
 		display: inline-block;
