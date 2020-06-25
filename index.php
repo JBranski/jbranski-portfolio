@@ -43,7 +43,7 @@
 
 	<title>Jonathan Branski | Front-end Developer</title>
 
-	<link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans&display=swap" rel="stylesheet"> 
+	<link href="https://fonts.googleapis.com/css?family=Montserrat%7COpen+Sans&display=swap" rel="stylesheet"> 
 	<link rel="stylesheet" href="./style.min.css">
 
 	 <!--[if lt IE 9]> 
@@ -60,7 +60,6 @@
 
         </style>
     <![endif] -->
-	<title></title>
 </head>
 <body>
 	<nav class="top-nav" id="top-nav">
@@ -96,13 +95,17 @@
 			<div>
 				<section>
 					<img src="./img/jbranski-profile-picture.jpg" alt="Jonathan Branski's profile picture" class="profile-image">
-					<p>With a passion for computers since my childhood, I pursued a career in development. Since graduating with an Associate's degree in 2019, I have been able to work in an agency, as a freelancer, and even go to Vietnam to do a website for a wildlife rescue. Outside of development I enjoy photography, hiking and volunteering in my spare time.</p>
+					<h3>Jonathan Branski</h3>
+					<h4>Milwaukee, Wisconsin</h4>
+					<p>I am someone that has a passion for hiking, animals and the color purple. I like to get involved with different volunteering efforts, trying out new activities, and looking for the next new thing to learn.</p>
+					<p>With a passion for computers since my childhood, I pursued a career in development. Since graduating with an Associate's degree in 2019, I have been able to work in an agency, as a freelancer, and even go to Vietnam to do a website for a wildlife rescue.</p>
 				</section>
 				
 				<section>
+					<h3>Technologies</h3>
 				<!-- Listings of skills used. possibly look for alternate way to display -->
 					<section class="technologies">
-						<h3>Front-end Technologies</h3>
+						<h4>Front-end Technologies</h4>
 						<img src="./img/tech-logos/html5_badge_64.png" alt="HTML5">
 						<img src="./img/tech-logos/css_badge_64.png" alt="CSS3">
 						<img src="./img/tech-logos/less_badge_64.png" alt="Less CSS">
@@ -114,13 +117,13 @@
 					</section>
 					
 					<section class="technologies">
-						<h3>Back-end Technologies</h3>
+						<h4>Back-end Technologies</h4>
 						<img src="./img/tech-logos/php_badge_64.png" alt="PHP">
 						<img src="./img/tech-logos/mysql_badge_64.png" alt="MySQL">
 					</section>
 
 					<section class="technologies">
-						<h3>Other Technologies</h3>
+						<h4>Other Technologies</h4>
 						<img src="./img/tech-logos/photoshop_badge_64.png" alt="Photoshop">
 						<img src="./img/tech-logos/xd_badge_64.png" alt="Experience Design">
 						<img src="./img/tech-logos/ai_badge_64.png" alt="Illustrator">
@@ -138,7 +141,7 @@
 		<!-- Combination of work, school, and side projects -->
 			<h2>Projects & Work</h2>
 			<hr>
-			<section class="project-list">
+			<div class="project-list">
 				<section class="project-tile">
 					<!-- volunteer project -->
 					<a href="https://svw.vn" target="_blank">
@@ -193,7 +196,7 @@
 					</a>
 				</section>
 				
-			</section>
+			</div><!-- end project list -->
 		</article>
 
 		<article id="contact">
@@ -203,45 +206,46 @@
 			<!-- <script type="text/javascript">let submitted=false;</script>
     		 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted)  {window.location='https://www.jonathanbranski.com/thankyou.php';}"></iframe> -->
 			
-			<section class="contactBox">
+			<div class="contactBox">
 				<form action="https://formspree.io/mnqbdqrp" method="POST" name="contactForm">
 					<label for="formName">
 						Your name:<br>
 						<input type="text" name="name" id="formName" placeholder="Enter your name">
-						<div id="nameError"></div>
+						<span id="nameError"></span>
 					</label>
 					<label for="formEmail">
 						Your email:<br>
 						<input type="text" name="_replyto" id="formEmail" placeholder="Enter your email">
-						<div id="emailError"></div>
+						<span id="emailError"></span>
 					</label>
 				
 					<label for="formMessage">
 						Your message:<br>
 						<textarea name="message" id="formMessage" cols="30" rows="10" placeholder="Enter your message"></textarea>
-						<div id="messageError"></div>
+						<span id="messageError"></span>
 					</label>
 					<button type="submit" name="submit" id="submitButton">Submit</button>
 				</form>	
 
 				<section class="media-links">
-					<a href="mailto:hello@jonathanbranski.com">
+					<h3>Find me online</h3>
+					<a href="mailto:hello@jonathanbranski.com" target="_blank">
 						<img src="./img/mail-logo.png" alt="Email hello@jonathanbranski.com">
 					</a>
-					<a href="https://twitter.com/JBranski96">
+					<a href="https://twitter.com/JBranski96" target="_blank">
 						<img src="./img/twitter-logo.png" alt="Twitter @JBranski96">
 					</a>
-					<a href="https://www.linkedin.com/in/jonathanbranski/">
+					<a href="https://www.linkedin.com/in/jonathanbranski/" target="_blank">
 						<img src="./img/linkedin-logo.png" alt="Linkedin @jonathanbranski">
 					</a>
-					<a href="https://github.com/JBranski">
+					<a href="https://github.com/JBranski" target="_blank">
 						<img src="./img/github-logo.png" alt="GitHub @JBranski">
 					</a>
-					<a href="https://codepen.io/JBranski">
+					<a href="https://codepen.io/JBranski" target="_blank">
 						<img src="./img/codepen-logo.png" alt="CodePen @JBranski">
 					</a>
 				</section>
-			</section>
+			</div>
 
 			<!-- background for contact section, mimics header -->
 			<div class="contact-bg-circle">
@@ -257,7 +261,7 @@
 			<!-- <a href="https://www.siteground.com/index.htm?afcode=5bee33cc7c6084149c4507ff237a39a1" target="_blank">hosted with SiteGround</a> -->
 		</p>
 	</footer>
-	<script src="script.js" type="text/javascript"></script>
+	<script src="script.js"></script>
 
 </body>
 </html>
