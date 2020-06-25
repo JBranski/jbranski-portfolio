@@ -64,8 +64,15 @@
 		display: flex;
 		justify-content: flex-end;
 		img{
-			width: 32px;
+			max-width: 32px;
 			margin: 0 5px;
 		}
+	}
+
+	& > a.repo-link img{
+		width: 32px;
+		position: relative;
+		bottom: -45px;
+		left: 10px;
 	}
 }
