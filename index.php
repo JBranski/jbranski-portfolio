@@ -149,11 +149,13 @@
 						<h3>Save Vietnam's Wildlife</h3>
 						<hr>
 						<p>A volunteer based wildlife rescue located in Vietnam. They assist in raising awareness and in rescue and rehabilitation efforts of wildlife throughout Vietnam.</p>
-						<span class="used-tech">
-							
-							<img src="./img/tech-logos/wordpress_badge_64.png" alt="WordPress">
-						</span>
 					</a>
+					<a href="https://svw.vn" class="repo-link" target="blank" title="View Save Vietnams Wildlife on WordPress!"><img src="./img/tech-logos/wordpress_badge_64.png" alt="View Save Vietnams Wildlife on WordPress"></a>
+						<span class="used-tech">
+							<img src="./img/tech-logos/html5_badge_64.png" alt="HTML5">
+							<img src="./img/tech-logos/css_badge_64.png" alt="CSS3">
+						</span>
+				
 				</section>
 				<section class="project-tile">
 					<!-- school project -->
@@ -162,11 +164,12 @@
 						<h3>Cross Lutheran MKE</h3>
 						<hr>
 						<p>A church located in Milwaukee, Wisconsin. They work towards bringing together the community within the city in a fun and modern way.</p>
+					</a>
+					<a href="https://crosslutheranmke.org" class="repo-link" target="blank" title="View Cross Lutheran MKE hosted on WordPress!"><img src="./img/tech-logos/wordpress_badge_64.png" alt="View Cross Lutheran MKE on WordPress!"></a>
 						<span class="used-tech">
-							<img src="./img/tech-logos/wordpress_badge_64.png" alt="WordPress">
 							<img src="./img/tech-logos/xd_badge_64.png" alt="Adobe Experience Design">
 						</span>
-					</a>
+					
 				</section>
 				<section class="project-tile">
 					<!-- online class project -->
@@ -175,13 +178,14 @@
 						<h3>ZTM Background Gen</h3>
 						<hr>
 						<p>Zero to Mastery background gradient generator. Can customize each side, or randomize it. You can also click to easily copy the style from the page.</p>
+					</a>
 						<a href="https://github.com/JBranski/ztm-background-gen" class="repo-link" target="blank" title="View ZTM Background Generator on GitHub!"><img src="./img/github-logo.png" alt="View ZTM Background Generator on GitHub"></a>
 						<span class="used-tech">
 							<img src="./img/tech-logos/html5_badge_64.png" alt="HTML5">
 							<img src="./img/tech-logos/css_badge_64.png" alt="CSS3">
 							<img src="./img/tech-logos/javascript_badge_64.png" alt="JavaScript">
 						</span>
-					</a>
+					
 				</section>
 				<section class="project-tile">
 					<!-- site from employer -->
@@ -190,12 +194,13 @@
 						<h3>St. John's Northwestern</h3>
 						<hr>
 						<p>A private 501(c)(3) college prep boarding school located in Delafield, Wisconsin. Goal to provide information for potential and current families in a streamlined fashion.</p>
+					</a>
+					<a href="https://sjnma.org" class="repo-link" target="blank" title="View SJNA hosted on WordPress!"><img src="./img/tech-logos/wordpress_badge_64.png" alt="View SJNA on GitHub"></a>
 						<span class="used-tech">
-							<img src="./img/tech-logos/wordpress_badge_64.png" alt="WordPress">
 							<img src="./img/tech-logos/xd_badge_64.png" alt="Adobe Experience Design">
 							<img src="./img/tech-logos/css_badge_64.png" alt="CSS3">
 						</span>
-					</a>
+					
 				</section>
 				
 			</div><!-- end project list -->
