@@ -69,10 +69,17 @@
 		}
 	}
 
-	& > a.repo-link img{
+	& > a.repo-link{
 		width: 32px;
 		position: relative;
 		bottom: -45px;
 		left: 10px;
+	}
+
+	& > a.repo-link img{
+		width: 32px;
+		// position: relative;
+		// bottom: -45px;
+		// left: 10px;
 	}
 }
