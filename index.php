@@ -173,13 +173,13 @@
 				</section>
 				<section class="project-tile">
 					<!-- online class project -->
-					<a href="https://jbranski.github.io/ztm-background-gen/" target="_blank">
-						<img src="./img/project-ztm-background-gen.jpg" alt="">
-						<h3>ZTM Background Gen</h3>
+					<a href="https://jbranski.github.io/river-stream-stats/" target="_blank">
+						<img src="./img/desktop-home.png" alt="">
+						<h3>River Stream Stats</h3>
 						<hr>
-						<p>Zero to Mastery background gradient generator. Can customize each side, or randomize it. You can also click to easily copy the style from the page.</p>
+						<p>A platform to view Twitch streamers, and get a preview of their content. Built using Twitch's new API.</p>
 					</a>
-						<a href="https://github.com/JBranski/ztm-background-gen" class="repo-link" target="blank" title="View ZTM Background Generator on GitHub!"><img src="./img/github-logo.png" alt="View ZTM Background Generator on GitHub"></a>
+						<a href="https://github.com/JBranski/river-stream-stats" class="repo-link" target="blank" title="View River Stream Stats on GitHub!"><img src="./img/github-logo.png" alt="View River Stream Stats on GitHub"></a>
 						<span class="used-tech">
 							<img src="./img/tech-logos/html5_badge_64.png" alt="HTML5">
 							<img src="./img/tech-logos/css_badge_64.png" alt="CSS3">
