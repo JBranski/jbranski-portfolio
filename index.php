@@ -189,16 +189,14 @@
 				</section>
 				<section class="project-tile">
 					<!-- site from employer -->
-					<a href="https://sjnma.org" target="_blank">
-						<img src="./img/project-sjnma.jpg" alt="">
-						<h3>St. John's Northwestern</h3>
+					<a href="https://gist.github.com/JBranski/8dcf3f7ceedb37a511110ee5a45282a2" target="_blank">
+						<img src="./img/project-aot.jpg" alt="">
+						<h3>AoT Idle</h3>
 						<hr>
-						<p>A private 501(c)(3) college prep boarding school located in Delafield, Wisconsin. Goal to provide information for potential and current families in a streamlined fashion.</p>
+						<p>An in-dev idle incremental game set in a medieval fantasy realm, made using Node, Express, React, and PostgreSQL</p>
 					</a>
-					<a href="https://sjnma.org" class="repo-link" target="blank" title="View SJNA hosted on WordPress!"><img src="./img/tech-logos/wordpress_badge_64.png" alt="View SJNA on GitHub"></a>
+					<a href="https://gist.github.com/JBranski/8dcf3f7ceedb37a511110ee5a45282a2" class="repo-link" target="blank" title="View AoT Idle Live"><img src="./img/github-logo.png" alt="View SJNA on GitHub"></a>
 						<span class="used-tech">
-							<img src="./img/tech-logos/xd_badge_64.png" alt="Adobe Experience Design">
-							<img src="./img/tech-logos/css_badge_64.png" alt="CSS3">
 						</span>
 					
 				</section>
